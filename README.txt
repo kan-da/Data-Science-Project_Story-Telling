@@ -7,7 +7,7 @@ One nice option is to paste the link to your GitHub notebook into http://nbviewe
 
 Hope that clear things up!
 
-Or Use this Link -
+Or Use this Link which included with the graphs -
 
 https://nbviewer.jupyter.org/github/kan-da/Data-Science-Project_Story-Telling/blob/master/Review_Stories.ipynb
 
